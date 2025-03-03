@@ -2,20 +2,12 @@
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", elcano by Lucas
 https://elcano.top
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MF1UHD", DAZN F1 UHD ep  c021
-acestream://c021e3af42b9cd3743817a2c6258e0986666dd73
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1", DAZN F1 Multicámara  9686
-acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1", DAZN F1 FHD  751a
-acestream://751aa1f2429dfb9484b67a3ede00d859c6212994
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1", DAZN F1 FHD  4f1d
 acestream://4f1d222c600e66ef4990b3d7ea13bfa53f7bfea1
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1", DAZN F1 FHD  751a
+acestream://751aa1f2429dfb9484b67a3ede00d859c6212994
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1", DAZN F1 1080  8c00
 acestream://8c006afa7086d845ab106ddb76704230e61b315b
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1", DAZN F1 1080  d628
-acestream://d6281d4e6310269b416180442a470d23a4a99dc9
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1", DAZN F1 720  2682
-acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGUH", M+ LaLiga UHD ep  8286
 acestream://8286183314d367940409b760bbf887f3fb923f60
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGUH", M+ LaLiga UHD  dce1
