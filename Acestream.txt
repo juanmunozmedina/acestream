@@ -406,8 +406,6 @@ acestream://8670df538a11c6ec97b3f634981ddc4409ca0333
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 4K --> NEW ERA
 acestream://6a54f8fb00406c88f68ac3f3aabc7d084f9573d0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 FHD --> NEW ERA
-acestream://dad5e0e0825cb3e410008f1c4252387b868e740c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 FHD --> NEW ERA
 acestream://7597d4feb3195079ffa606cf23a183d626ee40ba
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png" tvg-id="La 2" group-title="TDT", LA 2 FHD --> NEW ERA
 acestream://9934906503661142f97a044ae1509a294057c2ed
